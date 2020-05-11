@@ -109,12 +109,12 @@ a:hover {
 }
 
 .intro {
-  width: 30%;
   margin: auto;
+  line-height: 2;
 }
 
 .contact-mexxxx {
-  width: 400px;
+  width: 40%;
   margin: 40px auto 60px;
 }
 
@@ -130,7 +130,7 @@ a:hover {
   border-radius: 8px;
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
@@ -143,6 +143,8 @@ a:hover {
 
 .quote {
   padding-bottom: 70px;
+  width: 50%;
+  margin:auto;
 }
 
 .airplaine {
